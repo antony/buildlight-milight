@@ -1,0 +1,17 @@
+{
+  "name": "buildlight",
+  "version": "1.0.0",
+  "description": "Build Light",
+  "main": "index.js",
+  "repository": {},
+  "author": "Antony Jones",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "circleci": "^0.3.2",
+    "co": "^4.6.0",
+    "node-milight-promise": "^0.1.0"
+  }
+}
