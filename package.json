@@ -1,9 +1,12 @@
 {
-  "name": "buildlight",
+  "name": "milight-buildlight",
   "version": "1.0.0",
   "description": "Build Light",
   "main": "index.js",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:antony/buildlight-milight.git"
+  },
   "author": "Antony Jones",
   "license": "MIT",
   "scripts": {
